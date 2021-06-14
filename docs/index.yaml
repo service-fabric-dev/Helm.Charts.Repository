@@ -3,21 +3,21 @@ entries:
   client:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-14T11:26:11.8121568-05:00"
+    created: "2021-06-14T11:34:38.8299492-05:00"
     description: A Helm chart for Kubernetes
     digest: b8c1cc4bf4f4ae858f330bfaed695d6d2b94a95c6c938a8c2496ec43ba5e9710
     name: client
     urls:
-    - labor-management-client-0.1.0.tgz
+    - https://service-fabric-dev.github.io/Helm.Charts.Repository/labor-management-client-0.1.0.tgz
     version: 0.1.0
   server:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-14T11:26:11.8131569-05:00"
+    created: "2021-06-14T11:34:38.8309341-05:00"
     description: A Helm chart for Kubernetes
     digest: 49ba7fc98dc775ea1903a2cac1b58bb76fdb87d33aee057d2bf8e5c6d527bf52
     name: server
     urls:
-    - labor-management-server-0.1.0.tgz
+    - https://service-fabric-dev.github.io/Helm.Charts.Repository/labor-management-server-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-14T11:26:11.8111569-05:00"
+generated: "2021-06-14T11:34:38.8289343-05:00"
