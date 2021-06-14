@@ -3,7 +3,7 @@ entries:
   labor-management-client:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-14T11:45:48.8252034-05:00"
+    created: "2021-06-14T11:47:09.8654261-05:00"
     description: A Helm chart for Kubernetes
     digest: 57caa9b52c9780267533da91c547d3b25fb96c2f6864c89f5d22ca12f4afe12d
     name: labor-management-client
@@ -13,11 +13,11 @@ entries:
   labor-management-server:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-06-14T11:45:48.8262038-05:00"
+    created: "2021-06-14T11:47:09.8664254-05:00"
     description: A Helm chart for Kubernetes
     digest: 8f50185c14bfcda193e23644d3ebe5f1f2a9ceca709c42304b36a05851ff5e3e
     name: labor-management-server
     urls:
     - labor-management-server-0.1.0.tgz
     version: 0.1.0
-generated: "2021-06-14T11:45:48.8242151-05:00"
+generated: "2021-06-14T11:47:09.8644258-05:00"
